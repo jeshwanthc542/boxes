@@ -1,0 +1,39 @@
+* {
+  font-family: "roboto";
+  margin: 0px;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  background-size: cover;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.head {
+  color: #0f172a;
+}
+
+.img1 {
+  background-color: #0b69ff;
+  padding: 8px;
+}
+
+.img2 {
+  background-color: #2dca73;
+  padding: 8px;
+}
+
+.img3 {
+  background-color: #ffb800;
+  padding: 8px;
+}
+
+.img4 {
+  background-color: #ff0b37;
+  padding: 8px;
+}
